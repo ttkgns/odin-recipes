@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 8px;
+}
+
+body {
+  background-color: bisque;
+  border: 2px solid black;
+  padding: 8px;
+}
+
+.title {
+  margin: 8px;
+  text-align: center;
+  font-size: 64px;
+}
+
+.recipe-list {
+  padding: 16px;
+  text-align: center;
+}
+
+.recipe-item {
+  display: inline-block;
+  text-align: center;
+  background-color:wheat;
+  padding: 32px;
+  border: 2px solid aliceblue;
+}
+
+ol {
+  margin-left: 24px;
+}
+
+.home-anchor {
+  display: block;
+  text-align: right;
+}
